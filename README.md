@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34244658/README.md)
 <h1 align="center">Hi, I'm S M Fahad 👋</h1>
 
 <p align="center">
