@@ -52,14 +52,6 @@ I'm passionate about building practical AI and machine learning solutions, from 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMFAHAD1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
