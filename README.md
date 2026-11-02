@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm S M Fahad 👋</h1>
 
 <p align="center">
-  <b>AI/ML Enthusiast • Python Developer • Edge AI Builder</b><br>
+  <b>EEE Undergraduate • Python Developer • AI/ML Enthusiast • Edge AI & IoT Builder </b><br>
   📍 Chattogram, Bangladesh
 </p>
 
