@@ -107,6 +107,9 @@ I am an undergraduate student in Electrical and Electronics Engineering with a p
   <a href="https://github.com/SMFAHAD1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://sites.google.com/view/smfahad">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 <p align="center">
